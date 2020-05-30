@@ -2,9 +2,9 @@
 #
 # Centralized Configuration
 
-packages
+Packages:
 	centralized-configuration-client
 	centralized-configuration-server
 	
-
+Docker:
 
